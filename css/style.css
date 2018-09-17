@@ -1,5 +1,10 @@
 /*////////////// Fonts //////////////*/
 
+h1, h2 {
+  color:rgb(152,173,166);
+  font-family:'Baskerville', serif;
+}
+
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
